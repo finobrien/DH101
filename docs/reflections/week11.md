@@ -2,4 +2,4 @@
 
 # Week 11 Reflection
 
-Reflect 11: Who does the invisible work of AI, and who profits from it?
+Reflect 11: Who does the invisible work of AI, and who profits from it? The invisible work of AI is done by a wide range of people who are often overlooked, including data labelers, content moderators, low-paid contractors, and everyday users whose data is collected and used to train systems. These workers help clean, sort, and filter the data that makes AI function, but they usually receive little recognition. Meanwhile, the biggest profits go to tech companies that build and own AI systems, as well as to investors and organizations that use AI to increase efficiency and reduce costs. This creates an imbalance where those doing essencial behind the scenes labor benefit the least, while those controlling the technology gain the most. 
