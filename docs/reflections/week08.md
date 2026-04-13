@@ -2,4 +2,4 @@
 
 # Week 8 Reflection
 
-Reflect 8: Who is visible/invisible in AI networks? How does visualization reveal or obscure power?
+Reflect 8: Who is visible/invisible in AI networks? How does visualization reveal or obscure power? In AI networks, some people and organizations are often visible, like big tech companies, famous researchers, or well-funded projects, while smaller groups, independent researchers, and communities affected by AI often stay invisible. Visualizations can share power by highlighting who is central or connected, but they can also hide it if only certain types of data, like funding or citations, are included. Basically, who shows up on the map depends on the data and choices of the person making it, so network visuals can make some actors more important while leaving others out.

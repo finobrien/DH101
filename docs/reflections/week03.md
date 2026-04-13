@@ -1,4 +1,4 @@
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 # Week 3 Reflection
 
-Reflect 3: What does “authenticity” mean when identity is co-constructed with AI?
+Reflect 3: What does “authenticity” mean when identity is co-constructed with AI? When identity is co-constructed with AI, authenticity doesn't really mean being fully original or "100% real". It's more about how much control and intention I have in the process. The image or identity AI creates isn't just me, but it's not completely separate from me either. It's shaped by my prompts, choices, and the AI's limitations, biases, and patterns. Due to this, authenticity becomes less about accuracy and more about awareness of how AI is shaping what gets shown and what gets left out. What feels authentic is recognizing that the results are a collaboration, not a reflection of who I am.

@@ -2,4 +2,4 @@
 
 # Week 9 Reflection
 
-Reflect 9: What is creativity when AI can generate endlessly? Where is the human in generative work?
+Reflect 9: What is creativity when AI can generate endlessly? Where is the human in generative work? Creativity changed when AI could generate endless responses because it became less about coming up with ideas and more about choosing and shaping the best ones. The human role is still important because we guide the AI with prompts and decide what outputs are actually meaningful. When I built my bot, I realized that small changes in wording or personality traits could really affect the responses, which made it feel like a back-and-forth process. I had some control over the output, but not completely, since the AI could still surprise me or give me repetitive answers. Overall, the AI generated the possibilities, but I was the one who gave them meaning.

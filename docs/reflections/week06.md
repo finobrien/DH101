@@ -2,4 +2,4 @@
 
 # Week 6 Reflection
 
-Reflect 6: What do we gain/lose when machines “read” literature for us?
+Reflect 6: What do we gain/lose when machines “read” literature for us? When machines read literature for us, we gain efficiency and the ability to see big patterns across tons of text that we wouldn't notice on our own. With the ideas such as "distant reading" from Franco Moretti, machines can track themes, word patterns, or trends across hundreds of novels in seconds. Thats very powerful, but at the same time, we lose the emotional and personal side of reading. A machine can analyze a novel like beloved themes, but it can't actually feel the weight of the story the way a human reader does. Literture isnt data, it's about interpretation, emotion, and experience.

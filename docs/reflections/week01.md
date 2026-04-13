@@ -1,4 +1,4 @@
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 # Week 1 Reflection
 
-Reflect 1: What counts as “making” in the age of AI? What might be gained/lost when machines participate in making?
+Reflect 1: What counts as “making” in the age of AI? What might be gained/lost when machines participate in making? In the age of AI, "making" isn't just doing everything yourself, it's also about guiding the process and making decisions. Even if a machine does a lot of the work, humans still decide what's important and how the result is used. When machines help, you can see patterns faster, try out more ideas, and save time. You can also lose some of the human touch or attention to specific details with the use of AI. AI might make things feel less original because it strongly relies on data that already exists. "Making" with AI is more like a combined effort between humans and the machines, where humans lay out the blueprints for AI.

@@ -2,4 +2,4 @@
 
 # Week 4 Reflection
 
-Reflect 4: Is AI a collaborator, tool, or plagiarist in storytelling?
+Reflect 4: Is AI a collaborator, tool, or plagiarist in storytelling? I think AI can be a tool and collaborator in storytelling, but it mainly depends on how it's used. Most of the time, I see it as a tool. It can help you brainstorm ideas and organization, but at the end of the day its up to the person to decide what the story means. In some ways its almost a collaborator because it suggests ideas you can build off of and jump start your thinking. This would then become a problem if someone uses it to copy existing work or turns in AI writing completely as their own. So I don't think AI is automatically plagiarism, it depends on how the writer decides to use it.
