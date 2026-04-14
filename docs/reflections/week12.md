@@ -2,4 +2,4 @@
 
 # Week 12 Reflection
 
-Reflect 12: Is AI sustainable? What ecological trade-offs are we willing to accept?
+AI is not inherently sustainable or unsustainable; it depends on how it is built and powered. Systems like AI require large amounts of electricity, data centers, and hardware, which can increase carbon emissions and resource usage, especially when powered by fossil fuels. At the same time, AI can help reduce environmental impact by improving energy efficiency, predicting climate patterns, and supporting solutions to climate change. The main ecological trade-off is whether the benefits of AI optimization and innovation outweigh its growing energy and material footprint, and whether we can shift its infrastructure toward cleaner, more renewable systems. 
