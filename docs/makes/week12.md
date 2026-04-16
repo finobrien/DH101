@@ -1,8 +1,7 @@
 # Week 12 – AI & Ecology
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+A poster like image titeld "The Hidden Cost of AI" with inforation of how much AI CO2 it uses and compares it to flights, homes, and cars. 
 
 ## Process Notes
 How did you make this? I used a little ChatGTP to help me plan my design, and then used Canva to bring it to life.
