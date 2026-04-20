@@ -1,3 +1,3 @@
 # Accessibility
 
-Explain how you considered accessibility in your work.
+When I was working on this, I tried to think about accessibility by making sure everything was simple, clear, and easy to understand. I avoided using complicated language so that anyone reading it could follow along without confusion. I also focused on organizing my ideas in a way that flows naturally, so it doesn’t feel overwhelming. Overall, I wanted to make sure that anyone, regardless of their background or experience, could easily read and understand what I created.
