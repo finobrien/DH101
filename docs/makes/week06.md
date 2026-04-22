@@ -5,15 +5,15 @@ Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
 ## Process Notes
-How did you make this? I made this all on my own with some assisted help from AI. 
+How did you make this? I made this all on my own, with some assistance from AI.
 What tools did you use? Voyant and ChatGTP.
-What decisions did you make? I decdied everything about this by deciding what speech to analize and then what sites to use to help me analize them. 
+What decisions did you make? I decided everything about this by choosing which speech to analyze and which sites to use to help me analyze it.
 
 ## Reflection
-When machines read literature for us, we gain speed and clarity, but we lose some of the depth that comes from actually sitting with a text. Using Voyant Tools made the speech feel almost mathematical. It showed which words appeared the most and where patterns happened, which helped me see structure in a way I probably wouldn’t notice on my own. At the same time, it didn’t care about emotion or history, it just counted. GPT, on the other hand, treated the speech like an argument with feelings and purpose. It explained repetition, tone, and historical context, especially with a speech like “I Have a Dream” by Martin Luther King Jr., but it also felt very confident, like the meaning was already decided. Voyant seems to imagine meaning as patterns and frequency, while GPT imagines meaning as intention and symbolism. What we gain from both is a different angle, structure from one and interpretation from the other. What we lose is the slower, more personal process of figuring it out ourselves, where meaning feels less finished and more open.
+When machines read literature for us, we gain speed and clarity, but we also lose some of the depth that comes from sitting with a text and interpreting it slowly over time. Using Voyant Tools made the speech feel almost mathematical. It highlighted which words appeared most frequently and where patterns emerged, which helped me see structure in a way I probably would not have noticed on my own. At the same time, it does not account for emotion, context, or historical significance—it simply counts and visualizes data. GPT, on the other hand, treats the speech more like an argument shaped by emotion and intent. It explains repetition, tone, and historical context, especially in a speech like “I Have a Dream” by Martin Luther King Jr. However, it can also feel very confident in its interpretation, as if the meaning is already fully determined rather than something open to discussion. In this way, Voyant seems to understand meaning as patterns and frequency, while GPT understands meaning more as intention, symbolism, and interpretation. Each tool offers a different perspective: one focuses on structure and data, while the other focuses on explanation and context. What we gain from both is a broader understanding of the text from different angles. However, what we lose is the slower, more personal process of engaging with literature ourselves, where meaning is not immediately fixed but gradually developed. In that slower process, interpretation feels more open-ended, and the reader plays a larger role in deciding what the text means.
 
 ## Attribution & AI Use
 - Tools used: Voyant and ChatGTP.
 - AI prompts (summary): I provded the reading and then asked it to focus on the repitition, tone, and strucutre of the speech, 
-- What AI generated: It provided it analysis on the speech.
-- What you changed or decided: I decided to not really change anything it gave me because I needed to involve ChatGTPs analysis of the speech in my make.
+- What AI generated: It provided an analysis of the speech.
+- What you changed or decided: I decided not to change much of what it gave me because I needed to include ChatGPT’s analysis of the speech in my project.
