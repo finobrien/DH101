@@ -1,18 +1,43 @@
+<link rel="stylesheet" href="../styles.css" />
+
+<header class="site-header">
+	<div class="container nav-row">
+		<h1 class="brand">DH101</h1>
+		<nav class="nav">
+			<a href="../index.html">Home</a>
+			<a href="../projects.html">Projects</a>
+			<a href="../about.md">About</a>
+			<a href="../reflections/week01.md">Reflections</a>
+		</nav>
+	</div>
+</header>
+
+<main class="markdown-page">
+	<section class="markdown-content container">
+
 # Week 10 – Games & Play
 
 ## The Artifact
 https://twinery.org/2/#/stories/ac56b440-d25d-403e-a9f8-d2668b57ba2d 
 
 ## Process Notes
-How did you make this? I made this game by using my creativity with help from Twinery to put it all together. 
+How did you make this? I made this game using my creativity, with help from Twinery, to put it all together.
 What tools did you use? Twinery.
-What decisions did you make? I decided what each question should ask and the answers to each one and where they should lead to.
+What decisions did you make? I decided what each question should ask, the answers to each one, and where they should lead.
 
 ## Reflection
-AI changes ur relationships to play, rules, and narritive my making them flexible and interactive instead of fixed. In play, AI acts more like a collaborator than a system you just try and beat, adapting to your choices in real time. Rules become less strict and sometimes hidden, which makes experiences feel more dynamic but also less predictable. Narratives shift from pre-written stories to ones that are generated and shaped by the player, creating a sense of shared authorship with the AI. Overall, AI moves things away from structured, controlled experiences towards ones that are more personalized, evolving, and unpredictable. 
+AI changes your relationship to play, rules, and narrative by making them more flexible and interactive instead of fixed. In traditional systems, play is usually structured around clear rules that stay consistent, and the goal is often to learn how to operate within those boundaries or “beat” the system. With AI, however, the experience shifts because the system can respond dynamically to what you do, making it feel more like a collaborator than a fixed set of rules. In this kind of interaction, rules can become less obvious or more fluid. Sometimes they are not fully visible, or they change depending on how the AI responds to your input. This makes the experience feel more dynamic and open-ended, but it also makes it less predictable, since you cannot always anticipate how the system will behave. Narrative also changes in a significant way. Instead of following a pre-written, fixed storyline, the story can be generated in response to the player’s actions. This creates a sense of shared authorship, where meaning and direction are shaped through interaction between the human and the AI rather than being controlled by a single author. Overall, AI shifts play, rules, and narrative away from structured, controlled experiences toward ones that are more personalized, evolving, and unpredictable.
 
 ## Attribution & AI Use
 - Tools used: Twinery
 - AI prompts (summary): None.
 - What AI generated: Nothing.
 - What you changed or decided: No changed needed.
+	</section>
+</main>
+
+<footer class="site-footer">
+	<div class="container">
+		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
+	</div>
+</footer>

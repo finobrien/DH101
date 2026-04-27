@@ -186,6 +186,64 @@ a:focus {
   text-align: center;
 }
 
+.markdown-page {
+  padding: 32px 0 64px;
+}
+
+.markdown-content {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: clamp(24px, 4vw, 40px);
+  box-shadow: 0 14px 30px rgba(20, 23, 40, 0.08);
+}
+
+.markdown-content h1 {
+  font-family: "Playfair Display", serif;
+  font-size: clamp(2rem, 3vw, 2.6rem);
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-content h2 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+.markdown-content p,
+.markdown-content li {
+  color: var(--muted);
+}
+
+.markdown-content a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.markdown-content a:hover,
+.markdown-content a:focus {
+  color: #2f3fd1;
+}
+
+.markdown-content blockquote {
+  margin: 20px 0;
+  padding: 16px 20px;
+  border-left: 4px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 12px;
+}
+
+.markdown-content blockquote p {
+  margin: 0;
+  color: var(--ink);
+}
+
+.markdown-content img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 12px 24px rgba(20, 23, 40, 0.12);
+}
+
 @media (max-width: 720px) {
   .nav-row {
     flex-direction: column;
