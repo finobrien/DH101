@@ -1,6 +1,31 @@
+<link rel="stylesheet" href="../styles.css" />
+
+<header class="site-header">
+	<div class="container nav-row">
+		<h1 class="brand">DH101</h1>
+		<nav class="nav">
+			<a href="../index.html">Home</a>
+			<a href="../projects.html">Projects</a>
+			<a href="../about.md">About</a>
+			<a href="week01.md">Reflections</a>
+		</nav>
+	</div>
+</header>
+
+<main class="markdown-page">
+	<section class="markdown-content container">
+
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 2 Reflection
 
 Reflect 2: Can AI help us define what it means to be human, or does it reduce us to patterns? 
 AI can help us think more deeply about what it means to be human, but it can also make us feel like we are just a collection of patterns. On one hand, AI can reveal things we might not notice on our own, like how we think, make decisions, or respond to different situations. It can sort through huge amounts of information and show connections that would be hard for a person to see, which can be really useful for understanding ourselves in new ways. In that sense, AI can almost act like a mirror, reflecting parts of human behavior back to us. At the same time, AI can oversimplify important aspects of being human, especially emotions and personal experiences. Feelings like love, anger, or empathy are complex, but AI often reduces them to patterns based on data it has learned from online sources. Since most of that data is pattern-based, it can miss the deeper meaning behind those emotions. This can make human experiences seem more mechanical or predictable than they actually are. Because of this, there is a risk of seeing ourselves as less unique or more like something that can be easily analyzed and categorized. In the end, it really comes down to how we choose to use AI. It has the potential to help us better understand what makes us human, but it can also reduce that understanding if we rely on it too much.
+	</section>
+</main>
+
+<footer class="site-footer">
+	<div class="container">
+		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
+	</div>
+</footer>

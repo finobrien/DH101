@@ -1,6 +1,31 @@
+<link rel="stylesheet" href="../styles.css" />
+
+<header class="site-header">
+	<div class="container nav-row">
+		<h1 class="brand">DH101</h1>
+		<nav class="nav">
+			<a href="../index.html">Home</a>
+			<a href="../projects.html">Projects</a>
+			<a href="../about.md">About</a>
+			<a href="week01.md">Reflections</a>
+		</nav>
+	</div>
+</header>
+
+<main class="markdown-page">
+	<section class="markdown-content container">
+
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 9 Reflection
 
 Reflect 9: What is creativity when AI can generate endlessly? Where is the human in generative work? 
 Creativity has changed with AI because it can generate endless responses, which shifts the focus away from simply coming up with ideas and more toward selecting, refining, and shaping the best ones. Instead of starting from a blank page, the creative process often begins with many possible outputs that need to be evaluated and adjusted. In this way, the human role is still essential, because we guide the AI through prompts and decide which results are actually meaningful or worth developing further. When I built my bot, I noticed that even small changes in wording, tone, or personality traits could significantly affect the responses it produced. This made the process feel less like one-directional control and more like a back-and-forth interaction. I could influence the output, but I didn’t fully control it, since the AI sometimes produced unexpected, repetitive, or slightly off responses. That unpredictability became part of the creative process itself Overall, it felt like the AI was generating a wide range of possibilities, while I was responsible for selecting, shaping, and assigning meaning to them. In that sense, creativity becomes less about producing everything from scratch and more about curating and directing what emerges. The final outcome is not created by either the human or the machine alone, but by the interaction between both.
+	</section>
+</main>
+
+<footer class="site-footer">
+	<div class="container">
+		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
+	</div>
+</footer>
