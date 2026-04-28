@@ -5,4 +5,13 @@ title: "About"
 
 # About Me
 
-I’m a college freshman and a football player who enjoys staying active and making the most out of my time both on and off the field. When I’m not playing football, I like hanging out with friends and just having a good time. I’m also really into being outdoors, especially fishing and snowboarding, which give me a chance to relax and enjoy something different. Overall, I like keeping a good balance between sports, friends, and the things I enjoy doing in my free time.
+## Snapshot
+Hello! I’m a college freshman and football player who enjoys staying active and making the most of my time on and off the field.
+
+## Interests
+- Football and training
+- Hanging out with friends
+- Outdoors: fishing and snowboarding
+
+## Balance
+I try to keep a healthy balance between sports, friends, and the things I enjoy in my free time.

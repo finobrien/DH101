@@ -1,9 +1,20 @@
+---
+layout: default
+title: "Sustainability & Ethics"
+---
+
 # Sustainability & Ethics
 
-For this project, I researched the carbon footprint of artificial intelligence, focusing on both large-scale training and everyday use. I found that training models like GPT-3 can produce hundreds of tons of CO2, while a single ChatGPT prompt produces a small amount. Even though one use seems really small, it adds up quickly when millions of people use AI every day. This made me realize that AI is not just something online, but something that has real environmental effects.
+## Key takeaways
+AI has a real environmental footprint. Training large models can produce significant emissions, and everyday use adds up when millions of people rely on it.
 
-The sources I used include Strubell et al.’s Energy and Policy Considerations for Deep Learning, the ML CO2 Impact Calculator, and public estimates of GPT-3 emissions. One issue I ran into is that a lot of this data is based on estimates because companies don’t always share exact numbers. Even with that, the general idea is still clear that AI has a real environmental impact.
+## Sources
+- Strubell et al., *Energy and Policy Considerations for Deep Learning*
+- ML CO2 Impact Calculator
+- Public estimates of GPT-3 emissions
 
-Personally, I use AI pretty often for schoolwork, ideas, and understanding assignments. I probably use it multiple times a day, so my usage adds up over time. After doing this project, I realized I could use it more carefully and not rely on it for everything. At the same time, I’m still going to use AI for school because it’s helpful and saves time.
+## My use
+I use AI for schoolwork, ideas, and understanding assignments. This project reminded me to use it more intentionally, even though it is still helpful.
 
-When it comes to responsibility, both individuals and companies play a role. People can try to use AI more intentionally, but most of the impact comes from large companies that run data centers and control energy use. Real change would require companies to use more renewable energy and be more open about their impact. Overall, companies have the most responsibility because they have the most control.
+## Responsibility
+Individuals can be mindful, but companies have the biggest impact because they control data centers and energy use. Meaningful change depends on transparent reporting and cleaner energy.

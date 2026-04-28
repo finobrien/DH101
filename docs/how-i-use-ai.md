@@ -1,3 +1,17 @@
+---
+layout: default
+title: "How I Use AI"
+---
+
 # How I Use AI
 
-When working in this course, I used AI as a support tool rather than letting it do the work for me. I stayed in control of my ideas, structure, and final decisions, and used AI mainly to help me brainstorm, reword sentences, or get past moments when I felt stuck. In terms of accessibility, I focused on keeping my writing clear, straightforward, and easy to follow so a wide range of people could understand it. Using AI helped me find ways to simplify and clarify my ideas, but I always reviewed and adjusted everything to make sure it reflected my own voice and met the expectations of the course.
+## Role of AI
+I use AI as a support tool, not a replacement for my own work. I keep control of ideas, structure, and final decisions.
+
+## Typical uses
+- Brainstorming
+- Rewording sentences
+- Getting unstuck
+
+## What stays mine
+I review and adjust everything to keep my voice, meet course expectations, and keep writing clear and accessible.
