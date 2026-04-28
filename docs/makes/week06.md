@@ -6,8 +6,7 @@ title: "Week 6 – Text & Distant Reading"
 # Week 6 – Text & Distant Reading
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+No Artifact. 
 
 ## Process Notes
 How did you make this? I made this all on my own, with some assistance from AI.
