@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 5 – GIF & Remix Culture"
+---
 
 # Week 5 – GIF & Remix Culture
 
@@ -33,11 +21,3 @@ When an image repeats instead of staying still, it starts to feel different. At 
 - AI prompts (summary):  “Make snoopy jump” , “Make him play with the butterfly” , “Make the loop 3-10 sentences"
 - What AI generated: A gif of snoopy playing with a butterfly on the red dog house. 
 - What you changed or decided: Animated Snoopy jumping, added butterfly motion, created a looping sequence, and adjusted the timing.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

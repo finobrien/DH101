@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 9 – Bots & Generators"
+---
 
 # Week 9 – Bots & Generators
 
@@ -34,11 +22,3 @@ Creativity changed when AI became capable of generating endless responses, becau
 - AI prompts (summary): I gave it the personality traits of the character I wanted.
 - What AI generated: Charlie Chan, my chatbot. 
 - What you changed or decided: I decided everything about Charlie and what his personality was like.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

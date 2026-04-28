@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 7 – Mapping AI Worlds"
+---
 
 # Week 7 – Mapping AI Worlds
 
@@ -34,11 +22,3 @@ AI reshapes global geographies of power, labor, and the environment by concentra
 - AI prompts (summary): I would ask it to give me the exact locations of the spots I needed at the time.
 - What AI generated:It gave me the exact locations of corporate headquarters, data centers, mining sites, and content moderation and data labeling labor.
 - What you changed or decided: I decided which locations and coordinates to use in my map and which ones fit best with the structure of my map.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 8 – Networks of Knowledge & Power"
+---
 
 # Week 8 – Networks of Knowledge & Power
 
@@ -36,11 +24,3 @@ Visualizations of these networks can sometimes help share power by making relati
 - AI prompts (summary): I drew my chain on a piece of paper, then sent it to AI and asked it to turn it into a cartoon image so I could use it online.
 - What AI generated: My final networkings chain.
 - What you changed or decided: I decided everything about the final chain and what to include in it.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

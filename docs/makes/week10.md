@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 10 – Games & Play"
+---
 
 # Week 10 – Games & Play
 
@@ -33,11 +21,3 @@ AI changes your relationship to play, rules, and narrative by making them more f
 - AI prompts (summary): None.
 - What AI generated: Nothing.
 - What you changed or decided: No changed needed.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

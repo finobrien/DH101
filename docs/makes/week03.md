@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 3 – Selfie & Identity"
+---
 
 # Week 3 – Selfie & Identity
 
@@ -33,11 +21,3 @@ In the AI-generated selfie, I can see myself in some obvious ways, like my age, 
 - AI prompts (summary): “A selfie of me. I am a 19 year old college kid."
 - What AI generated: A generic picture of a student wearing a backpack at a school. It could have been any student and didn’t look like me at all.
 - What you changed or decided: "Change my eyes so they are blue."
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

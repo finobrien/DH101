@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 11 – AI & Labor"
+---
 
 # Week 11 – AI & Labor
 
@@ -33,11 +21,3 @@ The invisible work of AI is done by a wide range of people who are often overloo
 - AI prompts (summary): I used AI to help me narrow down the most important points to include in my infographic.
 - What AI generated: The titles for each box.
 - What you changed or decided: I decided which of the titles it gave me should be included.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

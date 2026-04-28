@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 4 – Comic & Storytelling"
+---
 
 # Week 4 – Comic & Storytelling
 
@@ -33,11 +21,3 @@ For this comic, I wanted to show a simple moment between two friends playing and
 - AI prompts (summary): I gave AI my idea for a commic and then had AI come up with the dialog for my comic. 
 - What AI generated: It gave me the correct dialogue that made sense for my comic strip.
 - What you changed or decided: I decided to change what the characters said and when in certain slides of the strip.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

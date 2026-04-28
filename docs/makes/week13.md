@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 13 – Futures of AI & Humanity"
+---
 
 # Week 13 – Futures of AI & Humanity
 
@@ -33,11 +21,3 @@ AI futures are most realistically somewhere between utopian and dystopian rather
 - AI prompts (summary): I used ChatGPT to help with my outlining and revisions. I did not rely on it to produce the final article.
 - What AI generated: The format and some information in my article.
 - What you changed or decided: I decided on all the final ideas for my news article, except for a few small details like its formatting.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>

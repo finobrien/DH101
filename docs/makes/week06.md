@@ -1,19 +1,7 @@
-<link rel="stylesheet" href="../styles.css" />
-
-<header class="site-header">
-	<div class="container nav-row">
-		<h1 class="brand">DH101</h1>
-		<nav class="nav">
-			<a href="../index.html">Home</a>
-			<a href="../projects.html">Projects</a>
-			<a href="../about.md">About</a>
-			<a href="../reflections/week01.md">Reflections</a>
-		</nav>
-	</div>
-</header>
-
-<main class="markdown-page">
-	<section class="markdown-content container">
+---
+layout: default
+title: "Week 6 – Text & Distant Reading"
+---
 
 # Week 6 – Text & Distant Reading
 
@@ -34,11 +22,3 @@ When machines read literature for us, we gain speed and clarity, but we also los
 - AI prompts (summary): I provded the reading and then asked it to focus on the repitition, tone, and strucutre of the speech, 
 - What AI generated: It provided an analysis of the speech.
 - What you changed or decided: I decided not to change much of what it gave me because I needed to include ChatGPT’s analysis of the speech in my project.
-	</section>
-</main>
-
-<footer class="site-footer">
-	<div class="container">
-		<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
-	</div>
-</footer>
