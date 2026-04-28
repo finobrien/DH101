@@ -6,8 +6,7 @@ title: "Week 5 – GIF & Remix Culture"
 # Week 5 – GIF & Remix Culture
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+![alt text](../assets/images/week05.png)
 
 ## Process Notes
 How did you make this? I used a AI generated image and then had it loop it.
