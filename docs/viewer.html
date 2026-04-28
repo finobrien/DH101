@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>DH101 — Page</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-row">
+        <h1 class="brand">DH101</h1>
+        <nav class="nav">
+          <a href="index.html">Home</a>
+          <a href="projects.html">Projects</a>
+          <a href="viewer.html?file=about.md">About</a>
+          <a href="viewer.html?file=accessibility.md">Accessibility</a>
+          <a href="viewer.html?file=sustainability.md">Sustainability</a>
+          <a href="viewer.html?file=how-i-use-ai.md">How I Use AI</a>
+          <a href="viewer.html?file=reflections/week01.md">Reflections</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="markdown-page">
+      <section class="markdown-content container">
+        <div id="content">
+          <p>Loading…</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <small>&copy; 2026 DH101 — Built with simple HTML &amp; CSS</small>
+      </div>
+    </footer>
+
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const file = params.get("file");
+      const contentEl = document.getElementById("content");
+
+      const setMessage = (message) => {
+        contentEl.innerHTML = `<p>${message}</p>`;
+      };
+
+      const stripFrontMatter = (markdown) => markdown.replace(/^---[\s\S]*?---\s*/m, "");
+
+      const setTitleFromMarkdown = (markdown) => {
+        const match = markdown.match(/^#\s+(.+)$/m);
+        if (match && match[1]) {
+          document.title = `DH101 — ${match[1].trim()}`;
+        }
+      };
+
+      if (!file) {
+        setMessage("No page specified.");
+      } else {
+        fetch(file)
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Page not found.");
+            }
+            return response.text();
+          })
+          .then((markdown) => {
+            const cleaned = stripFrontMatter(markdown);
+            setTitleFromMarkdown(cleaned);
+            contentEl.innerHTML = marked.parse(cleaned);
+          })
+          .catch(() => {
+            setMessage("Sorry, that page could not be loaded.");
+          });
+      }
+    </script>
+  </body>
+</html>
