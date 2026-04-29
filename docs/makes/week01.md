@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Week 1 – Reverse Engineering"
+title: "Reverse Engineering"
 ---
 
-# Week 1 – Reverse Engineering
+# Reverse Engineering
 
 ## The Artifact
 The Mapping the Republic of Letters project, created at Stanford University, digitally maps the correspondence networks of Enlightenment thinkers. By visualizing letters sent between figures like Voltaire and Benjamin Franklin, it shows how ideas traveled across Europe and the Americas. The maps reveal that the Enlightenment functioned as an interconnected intellectual network rather than isolated individuals working alone.
