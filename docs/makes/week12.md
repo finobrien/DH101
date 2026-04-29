@@ -6,7 +6,7 @@ title: "Week 12 – AI & Ecology"
 # Week 12 – AI & Ecology
 
 ## The Artifact
-![alt text](assets/images/week12.png)
+![alt text](../assets/images/week12.png)
 
 ## Process Notes
 How did you make this? I used ChatGPT a little to help me plan my design, then used Canva to bring it to life.

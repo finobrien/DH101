@@ -6,8 +6,8 @@ title: "Week 3 – Selfie & Identity"
 # Week 3 – Selfie & Identity
 
 ## The Artifact
-![alt text](assets/images/week03-1.png)
-![alt text](assets/images/week03-2.png)
+![alt text](../assets/images/week03-1.png)
+![alt text](../assets/images/week03-2.png)
 ## Process Notes
 How did you make this?I gave ChatGPT a picture of myself and then briefly described my appearance to have it create a selfie of me.
 What tools did you use? I only used ChatGTP for this make.

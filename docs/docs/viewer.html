@@ -48,6 +48,17 @@
 
       const stripFrontMatter = (markdown) => markdown.replace(/^---[\s\S]*?---\s*/m, "");
 
+      const resolveRelativeImages = (baseUrl) => {
+        const images = contentEl.querySelectorAll("img");
+        images.forEach((img) => {
+          const src = img.getAttribute("src");
+          if (!src || /^(?:[a-z]+:|\/)/i.test(src)) {
+            return;
+          }
+          img.src = new URL(src, baseUrl).toString();
+        });
+      };
+
       const setTitleFromMarkdown = (markdown) => {
         const match = markdown.match(/^#\s+(.+)$/m);
         if (match && match[1]) {
@@ -69,6 +80,8 @@
             const cleaned = stripFrontMatter(markdown);
             setTitleFromMarkdown(cleaned);
             contentEl.innerHTML = marked.parse(cleaned);
+            const baseUrl = new URL(file, window.location.href);
+            resolveRelativeImages(baseUrl);
           })
           .catch(() => {
             setMessage("Sorry, that page could not be loaded.");
