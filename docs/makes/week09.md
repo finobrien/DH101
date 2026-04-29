@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Week 9 – Bots & Generators"
+title: "Bots & Generators"
 ---
 
 # Week 9 – Bots & Generators
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+[Chat with Charlie on Character.AI](https://character.ai/chat/e9m2kGWa9SLyN2IN6Y0hwah43mwolypqGC0t55pGEIQ)
 
 ## Process Notes
 How did you make this? I used Character.AI and gave prompts describing what I wanted the chatbot to be like.
