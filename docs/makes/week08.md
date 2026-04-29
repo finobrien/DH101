@@ -6,7 +6,7 @@ title: "Week 8 – Networks of Knowledge & Power"
 # Week 8 – Networks of Knowledge & Power
 
 ## The Artifact
-![alt text](../assets/images/week08.png)
+![alt text](assets/images/week08.png)
 
 ## Process Notes
 How did you make this? I identified the sources, targets, their relationship types, and node types, then connected them all into a “chain.” After that, I sketched my idea on a piece of paper and sent it to AI to turn it into an image for my project.

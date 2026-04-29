@@ -6,7 +6,7 @@ title: "Week 7 – Mapping AI Worlds"
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact
-![alt text](../assets/images/week07.png)
+![alt text](assets/images/week07.png)
 
 ## Process Notes
 How did you make this? I made this by getting specific locations from ChatGPT and then adding them to my map.

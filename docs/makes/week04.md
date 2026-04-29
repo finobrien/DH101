@@ -6,7 +6,7 @@ title: "Week 4 – Comic & Storytelling"
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
-![alt text](../assets/images/week04.png)
+![alt text](assets/images/week04.png)
 
 ## Process Notes
 How did you make this? I used Canva to help me make this and a bit of ChatGPT to help me plan it out.
