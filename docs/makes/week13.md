@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 13 – Futures of AI & Humanity"
+title: "Futures of AI & Humanity"
 ---
 
 # Week 13 – Futures of AI & Humanity
