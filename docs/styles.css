@@ -307,14 +307,19 @@ a:focus {
   grid-template-columns: 1fr;
   gap: 16px;
   margin: 16px 0 8px;
+  justify-items: center;
 }
 
 .image-row figure {
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .image-row img {
   width: 100%;
+  max-width: clamp(220px, 32vw, 320px);
   height: auto;
   display: block;
 }
