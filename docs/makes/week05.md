@@ -7,6 +7,7 @@ title: "GIF & Remix Culture"
 
 ## The Artifact
 ![Week 5 GIF](../assets/images/week05.png)
+*Caption: Looping Snoopy GIF frame showing the repeated motion.*
 
 ## Process Notes
 How did you make this? I used a AI generated image and then had it loop it.

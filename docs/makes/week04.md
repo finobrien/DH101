@@ -1,12 +1,13 @@
 ---
 layout: default
-title: "Week 4 – Comic & Storytelling"
+title: "Comic & Storytelling"
 ---
 
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
 ![alt text](../assets/images/week04.png)
+*Caption: Comic strip about fairness and effort in competition.*
 
 ## Process Notes
 How did you make this? I used Canva to help me make this and a bit of ChatGPT to help me plan it out.

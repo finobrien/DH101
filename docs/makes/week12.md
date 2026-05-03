@@ -1,12 +1,13 @@
 ---
 layout: default
-title: "Week 12 – AI & Ecology"
+title: "AI & Ecology"
 ---
 
 # Week 12 – AI & Ecology
 
 ## The Artifact
 ![alt text](../assets/images/week12.png)
+*Caption: Ecology-themed design exploring AI’s environmental impact.*
 
 ## Process Notes
 How did you make this? I used ChatGPT a little to help me plan my design, then used Canva to bring it to life.
