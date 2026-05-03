@@ -11,9 +11,7 @@ title: "Networks of Knowledge & Power"
 *Network chain sketch translated into a digital image.*
 
 ## Process Notes
-How did you make this? I identified the sources, targets, their relationship types, and node types, then connected them all into a “chain.” After that, I sketched my idea on a piece of paper and sent it to AI to turn it into an image for my project.
-What tools did you use? Pen and paper, ChatGPT, and numerous large corporate websites.
-What decisions did you make? I decided which sources to include in my chain, the structure, and what to include in my final network.
+I identified the sources, targets, relationship types, and node types, then connected them into a “chain.” After sketching the idea on paper, I sent it to AI to turn it into an image for my project. I used pen and paper, ChatGPT, and several corporate websites, and I decided which sources to include, the structure, and what appeared in the final network.
 
 ## Reflection
 In AI networks, some people and organizations are often highly visible, such as big tech companies, well-known researchers, and large, well-funded projects. At the same time, smaller groups, independent researchers, and communities that are affected by AI systems are often much less visible, or sometimes not shown at all. This creates an uneven picture of who is actually involved in and impacted by AI development.
