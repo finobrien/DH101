@@ -137,6 +137,11 @@ a:focus {
   margin-bottom: 0;
 }
 
+.meta {
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
 .hero-headshot {
   width: 100%;
   max-width: 320px;
