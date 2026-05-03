@@ -18,6 +18,6 @@ When an image repeats instead of staying still, it starts to feel different. At 
 
 ## Attribution & AI Use
 - Tools used: ChatGPT.
-- AI prompts (summary):  “Make snoopy jump” , “Make him play with the butterfly” , “Make the loop 3-10 sentences"
-- What AI generated: A gif of snoopy playing with a butterfly on the red dog house. 
+- AI prompts (summary): “Make Snoopy jump,” “Make him play with the butterfly,” “Make the loop 3-10 sentences.”
+- What AI generated: A GIF of Snoopy playing with a butterfly on the red doghouse.
 - What you changed or decided: Animated Snoopy jumping, added butterfly motion, created a looping sequence, and adjusted the timing.
