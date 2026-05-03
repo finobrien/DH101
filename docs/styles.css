@@ -302,6 +302,29 @@ a:focus {
   box-shadow: 0 12px 24px rgba(18, 24, 40, 0.12);
 }
 
+.image-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 16px 0 8px;
+}
+
+.image-row figure {
+  margin: 0;
+}
+
+.image-row img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-row figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 @media (max-width: 720px) {
   .nav-row {
     flex-direction: column;
@@ -319,5 +342,9 @@ a:focus {
   .hero-headshot {
     max-width: 100%;
     justify-self: start;
+  }
+
+  .image-row {
+    grid-template-columns: 1fr;
   }
 }
