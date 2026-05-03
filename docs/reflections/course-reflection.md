@@ -1,0 +1,3 @@
+# Course reflection
+
+Over the semester, I learned to see digital humanities less as a set of tools and more as a way of asking better questions about culture, power, and evidence. I got comfortable with close reading alongside data and visualization, practiced ethical thinking about AI and labor, and built skills in structuring arguments through making. The most interesting part was how every project forced me to connect technical choices to human consequences, while the most challenging part was sitting with uncertainty—there isn’t always a clean answer, but there is a clearer responsibility.
