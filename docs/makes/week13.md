@@ -6,7 +6,7 @@ title: "Futures of AI & Humanity"
 # Week 13: Futures of AI & Humanity
 
 ## The Artifact
-https://canva.link/aje3c28iohkitei 
+[The Rise of AI 2048 News Artcle](https://canva.link/aje3c28iohkitei)
 
 ## Process Notes
 I used ChatGPT to generate ideas and brainstorm, then went to Canva to create my news article. I used Canva and a little ChatGPT, and I made all the decisions for my work except for the article’s formatting.

@@ -6,7 +6,7 @@ title: "AI & Labor"
 # Week 11: AI & Labor
 
 ## The Artifact
-https://www.canva.com/design/DAHGMHcLk5A/Se2gb1sjanf2A-KQWVAtJg/edit
+[Supply Chain Labor Infograph](https://www.canva.com/design/DAHGMHcLk5A/Se2gb1sjanf2A-KQWVAtJg/edit)
 
 ## Process Notes
 I used Canva to create an infographic layout, then wrote titles and descriptions for each “box.” I used Canva and ChatGPT, and I decided everything for the project while AI only helped with title ideas.
