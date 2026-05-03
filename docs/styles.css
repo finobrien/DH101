@@ -344,4 +344,14 @@ a:focus {
     justify-self: start;
   }
 
+  .image-row {
+    grid-template-columns: 1fr;
+  }
+
+
+@media (min-width: 721px) {
+  .image-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
 }
