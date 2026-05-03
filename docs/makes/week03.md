@@ -17,7 +17,7 @@ title: "Selfie & Identity"
 	</figure>
 </div>
 ## Process Notes
-How did you make this?I gave ChatGPT a picture of myself and then briefly described my appearance to have it create a selfie of me.
+How did you make this? I gave ChatGPT a picture of myself and then briefly described my appearance to have it create a selfie of me.
 What tools did you use? I only used ChatGTP for this make.
 What decisions did you make? I had it change my eye color just to see how AI works and what it would do with a small change. I also wanted to see if, by doing this, AI would fill in any other details about what I look like just from saying I have blue eyes.
 
