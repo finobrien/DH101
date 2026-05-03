@@ -3,7 +3,7 @@ layout: default
 title: "Futures of AI & Humanity"
 ---
 
-# Week 13 – Futures of AI & Humanity
+# Week 13: Futures of AI & Humanity
 
 ## The Artifact
 https://canva.link/aje3c28iohkitei 

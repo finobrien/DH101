@@ -3,7 +3,7 @@ layout: default
 title: "Selfie & Identity"
 ---
 
-# Week 3 – Selfie & Identity
+# Week 3: Selfie & Identity
 
 ## The Artifact
 <div class="image-row">

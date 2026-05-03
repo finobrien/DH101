@@ -3,7 +3,7 @@ layout: default
 title: "Networks of Knowledge & Power"
 ---
 
-# Week 8 – Networks of Knowledge & Power
+# Week 8: Networks of Knowledge & Power
 
 ## The Artifact
 ![Alt text: network chain sketch translated into a digital image](../assets/images/week08.png)

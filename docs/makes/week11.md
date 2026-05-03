@@ -3,7 +3,7 @@ layout: default
 title: "AI & Labor"
 ---
 
-# Week 11 – AI & Labor
+# Week 11: AI & Labor
 
 ## The Artifact
 https://www.canva.com/design/DAHGMHcLk5A/Se2gb1sjanf2A-KQWVAtJg/edit

@@ -3,7 +3,7 @@ layout: default
 title: "Mapping AI Worlds"
 ---
 
-# Week 7 – Mapping AI Worlds
+# Week 7: Mapping AI Worlds
 
 ## The Artifact
 ![Alt text: map of AI infrastructure, labor sites, and resource locations](../assets/images/week07.png)

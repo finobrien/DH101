@@ -3,7 +3,7 @@ layout: default
 title: "Bots & Generators"
 ---
 
-# Week 9 – Bots & Generators
+# Week 9: Bots & Generators
 
 ## The Artifact
 [Chat with Charlie on Character.AI](https://character.ai/chat/e9m2kGWa9SLyN2IN6Y0hwah43mwolypqGC0t55pGEIQ)

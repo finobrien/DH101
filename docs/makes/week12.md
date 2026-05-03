@@ -3,7 +3,7 @@ layout: default
 title: "AI & Ecology"
 ---
 
-# Week 12 – AI & Ecology
+# Week 12: AI & Ecology
 
 ## The Artifact
 ![Alt text: ecology-themed design about AI's environmental impact](../assets/images/week12.png)

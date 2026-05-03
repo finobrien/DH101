@@ -3,7 +3,7 @@ layout: default
 title: "Games & Play"
 ---
 
-# Week 10 – Games & Play
+# Week 10: Games & Play
 
 ## The Artifact
 https://twinery.org/2/#/stories/ac56b440-d25d-403e-a9f8-d2668b57ba2d 
