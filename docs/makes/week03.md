@@ -7,9 +7,9 @@ title: "Selfie & Identity"
 
 ## The Artifact
 ![alt text](../assets/images/week03-1.png)
-*Caption: AI-generated selfie based on my initial description.*
+*AI-generated selfie based on my initial description.*
 ![alt text](../assets/images/week03-2.png)
-*Caption: Second version with blue eyes to test how AI alters identity.*
+*Second version with blue eyes to test how AI alters identity.*
 ## Process Notes
 How did you make this?I gave ChatGPT a picture of myself and then briefly described my appearance to have it create a selfie of me.
 What tools did you use? I only used ChatGTP for this make.

@@ -7,7 +7,7 @@ title: "Mapping AI Worlds"
 
 ## The Artifact
 ![alt text](../assets/images/week07.png)
-*Caption: Map of AI infrastructure, labor sites, and resource locations.*
+*Map of AI infrastructure, labor sites, and resource locations.*
 
 ## Process Notes
 How did you make this? I made this by getting specific locations from ChatGPT and then adding them to my map.
