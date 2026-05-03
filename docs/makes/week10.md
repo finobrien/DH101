@@ -6,7 +6,7 @@ title: "Games & Play"
 # Week 10: Games & Play
 
 ## The Artifact
-https://twinery.org/2/#/stories/ac56b440-d25d-403e-a9f8-d2668b57ba2d 
+week10.html
 
 ## Process Notes
 I made this game using my own ideas and Twinery to put it all together. I used Twinery and decided what each question should ask, the answers to each one, and where they should lead.
