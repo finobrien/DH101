@@ -6,7 +6,7 @@ title: "Games & Play"
 # Week 10: Games & Play
 
 ## The Artifact
-[The Job Interview](week10-game.html)
+[The Job Interview](/makes/week10-game.html)
 
 ## Process Notes
 I made this game using my own ideas and Twinery to put it all together. I used Twinery and decided what each question should ask, the answers to each one, and where they should lead.
