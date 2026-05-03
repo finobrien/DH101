@@ -7,6 +7,7 @@ title: "AI & Ecology"
 
 ## The Artifact
 ![alt text](../assets/images/week12.png)
+
 *Ecology-themed design exploring AI’s environmental impact.*
 
 ## Process Notes

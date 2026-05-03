@@ -7,6 +7,7 @@ title: "Mapping AI Worlds"
 
 ## The Artifact
 ![alt text](../assets/images/week07.png)
+
 *Map of AI infrastructure, labor sites, and resource locations.*
 
 ## Process Notes

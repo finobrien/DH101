@@ -7,6 +7,7 @@ title: "GIF & Remix Culture"
 
 ## The Artifact
 ![Week 5 GIF](../assets/images/week05.png)
+
 *Looping Snoopy GIF frame showing the repeated motion.*
 
 ## Process Notes

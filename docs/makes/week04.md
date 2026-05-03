@@ -7,6 +7,7 @@ title: "Comic & Storytelling"
 
 ## The Artifact
 ![alt text](../assets/images/week04.png)
+
 *Comic strip about fairness and effort in competition.*
 
 ## Process Notes

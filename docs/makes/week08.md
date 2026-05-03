@@ -7,6 +7,7 @@ title: "Networks of Knowledge & Power"
 
 ## The Artifact
 ![alt text](../assets/images/week08.png)
+
 *Network chain sketch translated into a digital image.*
 
 ## Process Notes
