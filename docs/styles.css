@@ -1,19 +1,20 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap");
 
 :root {
   color-scheme: light;
-  --bg: #f7f8fb;
+  --bg: #f6f5f2;
   --surface: #ffffff;
   --surface-elevated: #ffffff;
-  --ink: #17181c;
-  --muted: #5a616b;
-  --accent: #2f4df6;
-  --accent-soft: rgba(47, 77, 246, 0.1);
-  --border: rgba(23, 24, 28, 0.08);
-  --shadow: 0 16px 36px rgba(18, 24, 40, 0.08);
-  --radius: 20px;
-  --radius-sm: 12px;
-  --ring: 0 0 0 3px rgba(47, 77, 246, 0.18);
+  --ink: #1f2428;
+  --muted: #5f6b73;
+  --accent: #1f3c88;
+  --accent-2: #3d6f5d;
+  --accent-soft: rgba(31, 60, 136, 0.12);
+  --border: rgba(31, 36, 40, 0.08);
+  --shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+  --radius: 18px;
+  --radius-sm: 10px;
+  --ring: 0 0 0 3px rgba(31, 60, 136, 0.2);
 }
 
 * {
@@ -22,17 +23,26 @@
 
 body {
   margin: 0;
-  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-family: "Open Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
   color: var(--ink);
-  background: linear-gradient(180deg, #f2f4ff 0%, #f7f8fb 45%, #f7f8fb 100%);
+  background: var(--bg);
   min-height: 100vh;
   line-height: 1.6;
   overflow-x: hidden;
 }
 
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Poppins", "Segoe UI", system-ui, -apple-system, sans-serif;
+  letter-spacing: 0.01em;
+}
+
 a {
   color: inherit;
   text-decoration: none;
+  transition: color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 a:hover,
@@ -49,7 +59,7 @@ a:focus {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(247, 248, 251, 0.9);
+  background: rgba(246, 245, 242, 0.9);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
 }
@@ -63,10 +73,10 @@ a:focus {
 }
 
 .brand {
-  font-family: "Playfair Display", serif;
-  font-size: 1.8rem;
+  font-family: "Poppins", "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-size: 1.7rem;
   margin: 0;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.015em;
 }
 
 .nav {
@@ -82,6 +92,7 @@ a:focus {
   background: transparent;
   font-weight: 500;
   color: var(--muted);
+  border: 1px solid transparent;
   transition: all 0.2s ease;
 }
 
@@ -89,6 +100,7 @@ a:focus {
 .nav a:focus {
   background: var(--accent-soft);
   color: var(--accent);
+  border-color: rgba(31, 60, 136, 0.18);
 }
 
 .nav a:focus-visible {
@@ -97,15 +109,15 @@ a:focus {
 }
 
 .hero {
-  padding: 96px 0 64px;
+  padding: 104px 0 72px;
 }
 
 .hero .container {
-  background: linear-gradient(135deg, rgba(47, 77, 246, 0.12), rgba(255, 244, 229, 0.6));
-  border-radius: calc(var(--radius) + 6px);
-  padding: 56px clamp(24px, 4vw, 64px);
+  background: linear-gradient(135deg, rgba(31, 60, 136, 0.08), rgba(255, 255, 255, 0.92));
+  border-radius: calc(var(--radius) + 4px);
+  padding: 60px clamp(24px, 4vw, 64px);
   box-shadow: var(--shadow);
-  border: 1px solid rgba(47, 77, 246, 0.08);
+  border: 1px solid rgba(31, 60, 136, 0.08);
 }
 
 .hero-layout {
@@ -122,7 +134,7 @@ a:focus {
 }
 
 .hero h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", "Segoe UI", system-ui, -apple-system, sans-serif;
   font-size: clamp(2.2rem, 3.2vw, 3rem);
   margin: 0 0 12px;
 }
@@ -165,19 +177,29 @@ a:focus {
   height: clamp(220px, 28vw, 320px);
   object-fit: cover;
   object-position: top center;
-  border-radius: calc(var(--radius) + 8px);
+  border-radius: calc(var(--radius) + 6px);
   border: 1px solid rgba(23, 24, 28, 0.08);
   box-shadow: 0 16px 30px rgba(18, 24, 40, 0.14);
   justify-self: end;
 }
 
 .feature {
-  padding: 12px 0 64px;
+  padding: 20px 0 72px;
 }
 
 .feature h2 {
   font-size: 1.6rem;
   margin: 0 0 8px;
+}
+
+.feature h2::after {
+  content: "";
+  display: block;
+  width: 52px;
+  height: 3px;
+  background: var(--accent);
+  border-radius: 999px;
+  margin-top: 10px;
 }
 
 .feature p {
@@ -194,9 +216,9 @@ a:focus {
 .card {
   background: var(--surface);
   border-radius: var(--radius);
-  padding: 22px 24px;
+  padding: 24px 26px;
   border: 1px solid var(--border);
-  box-shadow: 0 12px 24px rgba(18, 24, 40, 0.06);
+  box-shadow: 0 10px 22px rgba(18, 24, 40, 0.06);
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
@@ -211,13 +233,13 @@ a:focus {
 }
 
 .card:hover {
-  transform: translateY(-6px);
+  transform: translateY(-4px);
   box-shadow: var(--shadow);
-  border-color: rgba(47, 77, 246, 0.2);
+  border-color: rgba(31, 60, 136, 0.2);
 }
 
 .contact {
-  padding: 12px 0 72px;
+  padding: 20px 0 80px;
 }
 
 .contact .container,
@@ -236,7 +258,7 @@ a:focus {
 
 .site-footer {
   border-top: 1px solid var(--border);
-  padding: 24px 0 44px;
+  padding: 28px 0 48px;
   color: var(--muted);
 }
 
@@ -246,20 +268,20 @@ a:focus {
 }
 
 .markdown-page {
-  padding: 32px 0 64px;
+  padding: 40px 0 72px;
 }
 
 .markdown-content {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: clamp(24px, 4vw, 44px);
-  box-shadow: 0 14px 30px rgba(18, 24, 40, 0.08);
+  padding: clamp(26px, 4vw, 48px);
+  box-shadow: 0 14px 30px rgba(18, 24, 40, 0.06);
   overflow-wrap: anywhere;
 }
 
 .markdown-content h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", "Segoe UI", system-ui, -apple-system, sans-serif;
   font-size: clamp(2rem, 3vw, 2.6rem);
   margin-top: 0;
   margin-bottom: 16px;
@@ -268,6 +290,16 @@ a:focus {
 .markdown-content h2 {
   margin-top: 32px;
   margin-bottom: 12px;
+}
+
+.markdown-content h2::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 2px;
+  background: rgba(31, 60, 136, 0.25);
+  border-radius: 999px;
+  margin-top: 8px;
 }
 
 .markdown-content p,
@@ -282,14 +314,14 @@ a:focus {
 
 .markdown-content a:hover,
 .markdown-content a:focus {
-  color: #2f3fd1;
+  color: #1b2f67;
 }
 
 .markdown-content blockquote {
   margin: 20px 0;
   padding: 16px 20px;
   border-left: 4px solid var(--accent);
-  background: var(--accent-soft);
+  background: rgba(31, 60, 136, 0.08);
   border-radius: var(--radius-sm);
 }
 
@@ -316,7 +348,7 @@ a:focus {
   overflow-x: auto;
   padding: 16px;
   border-radius: var(--radius-sm);
-  background: rgba(23, 24, 28, 0.06);
+  background: rgba(31, 36, 40, 0.06);
 }
 
 .markdown-content table {
