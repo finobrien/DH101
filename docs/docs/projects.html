@@ -9,7 +9,10 @@
 	<body>
 		<header class="site-header">
 			<div class="container nav-row">
-				<h1 class="brand">DH101</h1>
+				<div class="nav-left">
+					<button class="theme-toggle" id="theme-toggle" type="button">Dark mode</button>
+					<h1 class="brand">DH101</h1>
+				</div>
 				<nav class="nav">
 					<a href="index.html">Home</a>
 					<a href="projects.html">Projects</a>
@@ -108,5 +111,30 @@
 				<small>&copy; 2026 DH101 — Built with simple HTML & CSS</small>
 			</div>
 		</footer>
+		<script>
+			const themeToggle = document.getElementById("theme-toggle");
+			const root = document.documentElement;
+			const storedTheme = localStorage.getItem("theme");
+
+			if (storedTheme) {
+				root.setAttribute("data-theme", storedTheme);
+			}
+
+			const updateLabel = () => {
+				const isDark = root.getAttribute("data-theme") === "dark";
+				themeToggle.textContent = isDark ? "Light mode" : "Dark mode";
+			};
+
+			if (themeToggle) {
+				updateLabel();
+				themeToggle.addEventListener("click", () => {
+					const isDark = root.getAttribute("data-theme") === "dark";
+					const nextTheme = isDark ? "light" : "dark";
+					root.setAttribute("data-theme", nextTheme);
+					localStorage.setItem("theme", nextTheme);
+					updateLabel();
+				});
+			}
+		</script>
 	</body>
 </html>
