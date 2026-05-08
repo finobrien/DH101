@@ -197,6 +197,34 @@ a:focus {
   margin-bottom: 0;
 }
 
+.hero-actions {
+  margin-top: 18px;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #ffffff;
+  font-weight: 600;
+  box-shadow: 0 12px 20px rgba(31, 60, 136, 0.2);
+  border: 1px solid transparent;
+}
+
+.cta-button:hover,
+.cta-button:focus {
+  color: #ffffff;
+  background: #162e6b;
+}
+
+.cta-button:focus-visible {
+  outline: none;
+  box-shadow: var(--ring);
+}
+
 .meta {
   font-size: 0.95rem;
   color: var(--muted);
