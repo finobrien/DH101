@@ -11,6 +11,8 @@ title: "AI & Labor"
 ## Process Notes
 I used Canva to create an infographic layout, then wrote titles and descriptions for each “box.” I used Canva and ChatGPT, and I decided everything for the project while AI only helped with title ideas.
 
+> **Process note:** I tested different box orders until the labor story read from hidden work to visible profits.
+
 ## Reflection
 I tried to make an infographic that highlights the hidden labor behind AI systems. My first layout failed because I overloaded each box with too much text, which made the story feel dense instead of clear. I used ChatGPT to brainstorm shorter titles and key phrases, then I selected the options that fit the structure of the design. Even with AI help, the infographic only worked once I decided which points mattered most — data labeling, content moderation, and the uneven flow of profits. This project taught me that AI can speed up the drafting phase, but it doesn’t automatically create focus. The creative work was in cutting, prioritizing, and designing the flow so the reader could see a system rather than a list. I also learned that AI has limits when it comes to ethical framing: the tool can summarize, but it doesn’t choose a stance. That’s still on me. The final piece argues that AI is not just algorithms; it’s a labor system with real people and real costs. Using AI in the process made me more aware of that paradox — I was using a tool built on hidden labor to make that hidden labor visible.
 

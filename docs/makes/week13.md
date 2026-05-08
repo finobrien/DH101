@@ -11,6 +11,8 @@ title: "Futures of AI & Humanity"
 ## Process Notes
 I used ChatGPT to generate ideas and brainstorm, then went to Canva to create my news article. I used Canva and a little ChatGPT, and I made all the decisions for my work except for the article’s formatting.
 
+> **Process note:** I outlined the headline first, then built the article around the tension between benefit and risk.
+
 ## Reflection
 I tried to write a speculative news article about AI in 2048 that felt believable, not purely utopian or dystopian. My first draft failed because it leaned too optimistic and read like a press release. I used ChatGPT to brainstorm alternative headlines and to stress-test the scenario with counterpoints, then I revised the story to include trade-offs, political tension, and uneven impacts. AI helped me generate possible future details, but I chose which ones supported the argument I wanted: that AI’s future is shaped by human priorities more than by the technology itself. This project taught me that AI is good at producing plausible futures, yet it doesn’t choose an ethical stance. Creativity here meant building a narrative that owns its values while still feeling realistic. I learned that the most interesting futures are mixed — progress and harm happening together — and that the author’s job is to make those contradictions visible. Using AI in the drafting stage made me faster, but it also made me more careful, because the smoothness of AI writing can hide weak reasoning. The final article is mine because I made the hard choices about tone, emphasis, and responsibility.
 

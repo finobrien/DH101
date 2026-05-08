@@ -204,6 +204,28 @@ a:focus {
   margin-top: 18px;
 }
 
+.micro-list {
+  list-style: none;
+  padding: 0;
+  margin: 6px 0 0;
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.98rem;
+}
+
+.micro-list li::before {
+  content: "•";
+  color: var(--accent);
+  margin-right: 8px;
+}
+
+.signature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+}
+
 .cta-button {
   display: inline-flex;
   align-items: center;

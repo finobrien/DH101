@@ -13,6 +13,8 @@ The Mapping the Republic of Letters project, created at Stanford University, dig
 *Republic of Letters correspondence network visualization.*
 
 ## Reflection
+> **Process note:** I treated the project like an investigation, focusing on the design choices behind the visualization rather than just describing what it shows.
+
 I tried to reverse engineer the Mapping the Republic of Letters project by treating it like a crafted argument rather than a neutral visualization. At first, I got stuck describing what I could see on the screen — nodes, lines, clusters — without understanding what story those choices were telling. That “failure” made me step back and ask what counts as a letter, who gets included, and how the data was cleaned before it ever became a map. I did not use generative AI for this project on purpose, because I wanted to practice the slower, human work of interpretation and source-checking. That choice made the limits of automation clearer: even the most elegant network still depends on human decisions about categories, priorities, and meaning. What I learned about AI and creativity is that creativity here isn’t in drawing the lines; it’s in framing the question and curating the dataset. AI can scale pattern-finding, but it can’t decide why a connection matters. This project convinced me that the “making” is really the act of judgment — the human part that shapes the map into an argument.
 
 <div class="attribution-box">

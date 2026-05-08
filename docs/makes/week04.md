@@ -13,6 +13,8 @@ title: "Comic & Storytelling"
 ## Process Notes
 I made this in Canva and used a bit of ChatGPT to help me plan it out. I decided everything about the comic, with AI only helping during brainstorming.
 
+> **Process note:** I drafted the panels on paper first so the story beats were clear before I touched Canva.
+
 ## Reflection
 I tried to build a short comic about fairness that felt simple but still meaningful. My first draft failed because the dialogue sounded preachy and the pacing felt rushed; the panels didn’t land the moment of tension between the friends. I used ChatGPT to brainstorm alternative lines and small beats of dialogue, then I tested those lines in Canva to see which ones fit the visual rhythm. AI gave me options, but it didn’t understand the tone I wanted — light and playful, but still honest about cheating — so I had to cut, remix, and reword most of what it suggested. That process taught me that AI is useful for sparking possibilities, not for delivering the final voice. The creativity happened when I chose what to keep, what to delete, and how to align the words with the images. I also learned that AI can flatten nuance if I accept the first answer. When I treated the prompts like a conversation and kept refining, the comic started to feel more like mine. The final piece reflects my judgment about fairness, effort, and the feeling of “winning” the right way, while AI functioned as a drafting partner.
 
