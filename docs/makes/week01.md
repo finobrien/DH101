@@ -13,10 +13,13 @@ The Mapping the Republic of Letters project, created at Stanford University, dig
 *Republic of Letters correspondence network visualization.*
 
 ## Reflection
-I don’t think the “making” part of this project is about building the website or even just producing the maps themselves. Instead, it’s really about all the decisions that go into selecting, organizing, and interpreting the data. In the case of Mapping the Republic of Letters, that means deciding which letters to include, who is counted as a sender or receiver, and how those connections are represented visually. These choices directly shape what the final product looks like and what it ends up showing. Having machines involved changes this process in important ways. Computers can handle large amounts of data, like hundreds or thousands of letters, and they can reveal patterns and connections that would be extremely difficult for a human to notice on their own. They can automatically generate networks and maps, which makes it possible to explore historical relationships at a much larger scale. That part is powerful because it opens up new ways of seeing trends and structures. However, machines don’t make the most important decisions on their own. Humans still decide what data is included, how it is categorized, and how the results are presented. Because of that, even though the final maps might look “machine-made,” they are still shaped by human choices at every step. Overall, this project shows that making with machines is not just about the computer doing the work. It’s really about research, interpretation, and decision-making. It also highlights how even digital or data-driven projects are deeply dependent on human labor and judgment, rather than being fully automatic or objective.
+I tried to reverse engineer the Mapping the Republic of Letters project by treating it like a crafted argument rather than a neutral visualization. At first, I got stuck describing what I could see on the screen — nodes, lines, clusters — without understanding what story those choices were telling. That “failure” made me step back and ask what counts as a letter, who gets included, and how the data was cleaned before it ever became a map. I did not use generative AI for this project on purpose, because I wanted to practice the slower, human work of interpretation and source-checking. That choice made the limits of automation clearer: even the most elegant network still depends on human decisions about categories, priorities, and meaning. What I learned about AI and creativity is that creativity here isn’t in drawing the lines; it’s in framing the question and curating the dataset. AI can scale pattern-finding, but it can’t decide why a connection matters. This project convinced me that the “making” is really the act of judgment — the human part that shapes the map into an argument.
 
-## Attribution & AI Use
-- Tools used: Republic of Letters Document.
-- AI prompts (summary): None.
-- What AI generated: Nothing.
-- What you changed or decided: Nothing.
+<div class="attribution-box">
+<h3>Attribution</h3>
+<p><strong>Tools Used:</strong> Mapping the Republic of Letters website</p>
+<p><strong>Prompt(s):</strong> None</p>
+<p><strong>AI Contribution:</strong> None (no AI used)</p>
+<p><strong>Human Contribution:</strong> Interpreted the visualization, identified assumptions in the data categories, and wrote the analysis.</p>
+<p><strong>Sources:</strong> Mapping the Republic of Letters project (Stanford University)</p>
+</div>

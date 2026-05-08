@@ -12,10 +12,13 @@ title: "Games & Play"
 I made this game using my own ideas and Twinery to put it all together. I used Twinery and decided what each question should ask, the answers to each one, and where they should lead.
 
 ## Reflection
-AI changes your relationship to play, rules, and narrative by making them more flexible and interactive instead of fixed. In traditional systems, play is usually structured around clear rules that stay consistent, and the goal is often to learn how to operate within those boundaries or “beat” the system. With AI, however, the experience shifts because the system can respond dynamically to what you do, making it feel more like a collaborator than a fixed set of rules. In this kind of interaction, rules can become less obvious or more fluid. Sometimes they are not fully visible, or they change depending on how the AI responds to your input. This makes the experience feel more dynamic and open-ended, but it also makes it less predictable, since you cannot always anticipate how the system will behave. Narrative also changes in a significant way. Instead of following a pre-written, fixed storyline, the story can be generated in response to the player’s actions. This creates a sense of shared authorship, where meaning and direction are shaped through interaction between the human and the AI rather than being controlled by a single author. Overall, AI shifts play, rules, and narrative away from structured, controlled experiences toward ones that are more personalized, evolving, and unpredictable.
+I tried to build an interactive “job interview” game in Twine where the player’s answers actually shape the tone of the conversation. My first version failed because the branches felt too linear — different answers led to nearly the same outcomes, which made the choices feel fake. I rewrote the paths and added consequences so the narrative could bend depending on how confident, hesitant, or bold the player sounded. I didn’t use AI for this project, and that decision became part of what I learned: designing rules and feedback loops is a creative act that requires human empathy. Without AI, I had to think carefully about how a player might read each question and how a response could change their experience. That made me notice what AI often automates — generating many possibilities — but it also reminded me that meaning comes from crafted constraints. The project taught me that creativity in games isn’t only about infinite options; it’s about intentional structure. In the context of AI and creativity, this was a counterexample: I learned how much of “intelligence” in play comes from the author’s design rather than the system’s ability to improvise.
 
-## Attribution & AI Use
-- Tools used: Twinery
-- AI prompts (summary): None.
-- What AI generated: Nothing.
-- What you changed or decided: No changed needed.
+<div class="attribution-box">
+<h3>Attribution</h3>
+<p><strong>Tools Used:</strong> Twinery (Twine)</p>
+<p><strong>Prompt(s):</strong> None</p>
+<p><strong>AI Contribution:</strong> None (no AI used)</p>
+<p><strong>Human Contribution:</strong> Wrote all questions, branching paths, and outcomes in the game.</p>
+<p><strong>Sources:</strong> None</p>
+</div>

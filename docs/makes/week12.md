@@ -14,10 +14,13 @@ title: "AI & Ecology"
 I used ChatGPT to help plan my design, then used Canva to bring it to life. I used Canva and ChatGPT, and I decided what should be included in the image.
 
 ## Reflection
-AI is not inherently sustainable or unsustainable; its environmental impact depends on how it is built, powered, and used. AI systems require large amounts of electricity, as well as extensive data centers and hardware infrastructure. This can contribute to higher carbon emissions and increased resource consumption, especially when the energy sources used are fossil fuels. The production and maintenance of the physical hardware also adds to the overall environmental footprint. At the same time, AI can also be used in ways that help reduce environmental impact. For example, it can improve energy efficiency in buildings and transportation systems, optimize industrial processes, and support more accurate predictions of climate patterns and environmental change. In these cases, AI becomes a tool that can potentially contribute to sustainability efforts rather than only increasing environmental costs. Because of this, the ecological impact of AI is best understood as a trade-off rather than a fixed outcome. On one side, there are the environmental costs of running and scaling these systems. On the other side, there are potential benefits from using AI to solve or reduce environmental problems. A key question is whether these benefits outweigh the growing energy and material demands of the technology. Ultimately, the sustainability of AI depends on future choices about infrastructure and design. Shifting toward renewable energy sources, improving efficiency, and making more responsible technological decisions will play a major role in determining whether AI becomes part of the environmental problem or part of the solution. 
+I tried to design a visual that captures AI’s environmental trade-offs without turning it into a simple “good or bad” story. My first layout failed because it was cluttered — I crammed too many facts into one frame, and the message got lost. I used ChatGPT to help brainstorm a clearer structure, then I translated that outline into a cleaner Canva design with a central idea and supporting points. The AI helped with planning, but I had to choose which data points mattered and how to balance costs with potential benefits. This project taught me that AI can offer a starting blueprint, but creativity is still about editing and emphasis. I learned that when AI suggests everything, the human job is to decide what to leave out so the argument is readable. It also made me more aware of how design choices influence environmental narratives: if you lead with energy costs, the reader sees risk; if you lead with efficiency gains, they see opportunity. The final piece reflects my attempt to hold both at once and show that sustainability depends on human decisions about infrastructure, energy sources, and scale.
 
-## Attribution & AI Use
-- Tools used: Canva and ChatGPT.
-- AI prompts (summary): Help me plan what my design should look like so it makes sense. 
-- What AI generated: It gave me the blueprint I needed for my final Canva design.
-- What you changed or decided: I decided what should and shouldn’t be included in my design and what structure I wanted for the final product.
+<div class="attribution-box">
+<h3>Attribution</h3>
+<p><strong>Tools Used:</strong> Canva, ChatGPT</p>
+<p><strong>Prompt(s):</strong> “Outline a simple visual structure for explaining AI’s environmental costs and potential benefits.”</p>
+<p><strong>AI Contribution:</strong> Suggested a layout plan and possible talking points.</p>
+<p><strong>Human Contribution:</strong> Curated the points, designed the final graphic, and wrote the reflection.</p>
+<p><strong>Sources:</strong> Course materials on AI and ecology</p>
+</div>
