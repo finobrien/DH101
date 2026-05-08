@@ -10,20 +10,22 @@ A quick snapshot of my academic focus, creative interests, and the questions tha
 
 ## Education
 - Digital Humanities (DH101), 2026
-- Add your degree/program and institution here.
+- Global commerce major, economics minor (class of 2029)
+
 
 ## Skills
 - Research and critical writing
 - Storytelling and visual design
 - Digital tools for cultural analysis
-- Add your technical tools (e.g., Twine, Canva, Voyant).
+- Tools: Twine, Canva, Voyant, illustration
 
 ## Selected Coursework + Projects
 - DH101: Weekly makes and reflections on AI, culture, and creative practice
-- Add other courses or highlights you want to showcase.
+- Project highlights: Networks of Knowledge & Power, Games & Play, Futures of AI & Humanity
 
 ## Experience + Activities
-- Add campus, community, or creative roles here.
+- Portfolio development and digital storytelling projects (DH101)
 
 ## Contact
-- Add your preferred contact method or portfolio link.
+- Email: obiren_f1@denison.edu
+- LinkedIn: https://www.linkedin.com/search/results/all/?keywords=Finley%20O'Brien
