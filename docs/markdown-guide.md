@@ -47,7 +47,7 @@ Use relative paths inside the repo.
 ```markdown
 [Week 01 reflection](../reflections/week01.md)
 [Outside resource](https://example.com)
-![Alt text for image](../assets/images/example.png)
+![Alt text for image](../assets/images/week03-1.png)
 ```
 
 ### Embedding local images
@@ -56,7 +56,7 @@ Use relative paths inside the repo.
 - Write helpful alt text that describes the image.
 
 ```markdown
-![Alt text: campus map sketch](../assets/images/campus-sketch.png)
+![Alt text: campus map sketch](../assets/images/week07.png)
 ```
 
 ## Code and Quotes
@@ -122,7 +122,7 @@ Write 3-5 sentences answering the question. Focus on what surprised you or chang
 2. What do you still need to learn or clarify?
 
 ## Media (optional)
-![Alt text: short description](../assets/images/example.png)
+![Alt text: short description](../assets/images/week04.png)
 ```
 
 Tips for reflections

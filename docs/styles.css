@@ -43,6 +43,7 @@ body {
   background: var(--bg);
   min-height: 100vh;
   line-height: 1.6;
+  font-size: 16px;
   overflow-x: hidden;
 }
 
@@ -129,7 +130,8 @@ a:focus {
 .nav {
   display: flex;
   align-items: center;
-  gap: 18px;
+  gap: 14px;
+  row-gap: 10px;
   flex-wrap: wrap;
 }
 
@@ -141,6 +143,7 @@ a:focus {
   color: var(--muted);
   border: 1px solid transparent;
   transition: all 0.2s ease;
+  line-height: 1.2;
 }
 
 .nav a:hover,
@@ -259,7 +262,7 @@ a:focus {
 }
 
 .feature {
-  padding: 20px 0 72px;
+  padding: 20px 0 64px;
 }
 
 .feature h2 {
@@ -411,6 +414,24 @@ a:focus {
   color: var(--muted);
 }
 
+.markdown-content p {
+  margin: 0 0 16px;
+}
+
+.markdown-content p:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  margin: 0 0 16px;
+  padding-left: 1.4rem;
+}
+
+.markdown-content li {
+  margin-bottom: 6px;
+}
+
 .markdown-content a {
   color: var(--accent);
   font-weight: 600;
@@ -435,7 +456,9 @@ a:focus {
 }
 
 .markdown-content img {
+  display: block;
   max-width: 100%;
+  margin: 12px 0 20px;
   border-radius: var(--radius-sm);
   box-shadow: 0 12px 24px rgba(18, 24, 40, 0.12);
 }
@@ -530,6 +553,14 @@ a:focus {
   .hero-headshot {
     max-width: 100%;
     justify-self: start;
+  }
+
+  .feature {
+    padding: 16px 0 56px;
+  }
+
+  .markdown-page {
+    padding: 28px 0 60px;
   }
 
   .image-row {
